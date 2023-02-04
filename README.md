@@ -1,14 +1,16 @@
-#<center>Final Project Proposal</center>
+#Final Project Proposal
 
 
 ## Project title
-
 Wealth Inequalities Affecting Pet Ownership in the Seattle-Area
 
 ### Authors
 Paulina Fronckiewicz - pfron@uw.edu 
+<br />
 Veronica Fula - vfula@uw.edu 
+<br />
 Riley Baerg - rbaerg@uw.edu 
+<br />
 Wenxuan Dong - wenxud@uw.edu 
 
 ### Date
@@ -32,15 +34,16 @@ Our main question is “does median household income affect the species, breed, 
 - **Zipcodes:** used to combine the two datasets and look at the geographical distribution of pet ownerhip and median income of each household with licensed pets.
 
 <br />
+
 ## Proposal
 
-###1. Introduction  
+### 1. Introduction  
 
 The project centers around a dataset of pet licenses issued by the City of Seattle from January 24, 2017, to January 25, 2023. We also would like to combine this set with data on median household income, to see how income influences the type of pet they have, and what breed of pet. Another question would be to infer whether a pet is adopted or pure-bred based on the breed, and see how many there are in each zip code. We are motivated by the questions of how wealth affects the kinds of pets people own, since pets are an integral part of our society and the well-being of many people. They seem to be ubiquitous, so it would be interesting to see if income is reflected in their demographics, or if people simply have pets according to convenience or without regard to pedigree. This can also show how trends in pet ownership change over time and how events like COVID-19 and quarantine affected people economically. Quarantine affected what kinds of jobs people had, so that can affect maybe the species that they can take care of (pigs and goats might be more difficult since they need space, money and specialized vets to take care of them).
 
 <br />
 
-###2. Related Work  
+### 2. Related Work  
 
 Some related work includes a survey done from 2020 to 2022 about various pet-related questions, such as whether they got a new pet in that year, if people spent more time with their pets due to COVID lockdown, and how worried they were about pet expenses. They also took age or generational data. They report that Millennials and Gen Z were more likely to be worried about pet-related expenses than Baby Boomers during the pandemic in 2020. The report attributes this to the pandemic impacted the economic situation of millions of people in the US, especially those with part-time or unguaranteed work. They also note that more people got pets in 2022 than in 2020 (14% vs 10%, respectively). This can potentially signify that the economic situation is improving and/or that people are in more need of companionship thanks to lockdown. This study shows that a link exists between economic factors and pet ownership and also that age can be another factor influencing our investigation that is not represented in our dataset.
 <br />
@@ -51,7 +54,8 @@ Seattle, C. of. (2023, January 25). Seattle Pet Licenses: City of seattle open d
 Statista (2022). How COVID-19 affected pet ownership in the U.S. 2020-2022 [Dataset]. Retrieved February 3, 2023, from https://www.statista.com/statistics/1191395/pet-ownership-status-due-to-covid-19-in-the-us/
 
 <br />
-###3. The Dataset
+
+### 3. The Dataset
 
 **Dataset 1: Seattle Pet Licenses**
 - The data was found on Seattle Open Data Website: https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb 
@@ -95,13 +99,14 @@ https://www.reddit.com/r/datasets/comments/hixfeo/how_to_obtain_median_income_da
 
 <br />
 
-###4. Implications
+### 4. Implications
 
 Our analysis and final product could help educate people on the relationship between income and the type of pet, and more specifically, its breed. For policymakers, this project could bring about a better understanding of the economical condition of those who raise one or more pets and thus make more effective policies for Seattle, or specifically its local pet industry and pet owners as well as revise existing policies with defects. The project may also bring attention to the financial condition of those with moderate or low-incomes and a need for emotional support. For technologists and designers, the program helps them when they are formulating or workshopping products. For example, an urban planner may want to know the income of one area of people who breed a pet when planning the city. A technologist or a designer may consult the project when they are designing a product geared towards pet owners that are at a specific income level or adding a new function to an existing product.
 
 <br />
 
-###5. Limitations & Challenges
+### 5. Limitations & Challenges
+
 What challenges or limitations might you need to address with your project idea? Briefly discuss (at least 150 words) 
 We pick the data of pet licenses and the pet owner information from the state government and there might be some pets not registered in Seattle. So the data has limitations in showing the type and number of the pet. Also, the license needs to renew for a certain period. So we can not know if the person changes pet or loses a pet, so the data is not so up-to-date in short term. Also, we pick two datasets, one is about pets and another is about the income of people. Mixing those two datasets and analyze accurately together is a challenge. We also plan to create a 2D data visualization on our website to show the data. Changing those data and processing them into charts and pictures on a website needs a huge amount of code and knowledge of coding more than we learned in this course. This could be a challenging task for us.
 
