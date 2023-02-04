@@ -1,8 +1,8 @@
-#Final Project Proposal
+# Final Project Proposal
 
 
 ## Project title
-Wealth Inequalities Affecting Pet Ownership in the Seattle-Area
+Wealth Inequalities Affecting Pet Ownership in the Seattle-Area.
 
 ### Authors
 Paulina Fronckiewicz - pfron@uw.edu 
@@ -46,7 +46,9 @@ The project centers around a dataset of pet licenses issued by the City of Seatt
 ### 2. Related Work  
 
 Some related work includes a survey done from 2020 to 2022 about various pet-related questions, such as whether they got a new pet in that year, if people spent more time with their pets due to COVID lockdown, and how worried they were about pet expenses. They also took age or generational data. They report that Millennials and Gen Z were more likely to be worried about pet-related expenses than Baby Boomers during the pandemic in 2020. The report attributes this to the pandemic impacted the economic situation of millions of people in the US, especially those with part-time or unguaranteed work. They also note that more people got pets in 2022 than in 2020 (14% vs 10%, respectively). This can potentially signify that the economic situation is improving and/or that people are in more need of companionship thanks to lockdown. This study shows that a link exists between economic factors and pet ownership and also that age can be another factor influencing our investigation that is not represented in our dataset.
+
 <br />
+
 Bureau, U. S. C. (2021). INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS). Explore census data. Retrieved February 3, 2023, from https://data.census.gov/table?q=median%2Bincome&g=0400000US53%248600000 
 
 Seattle, C. of. (2023, January 25). Seattle Pet Licenses: City of seattle open data portal. Seattle Open Data. Retrieved February 3, 2023, from https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb 
